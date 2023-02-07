@@ -36,6 +36,8 @@ Here's a walkthrough of implemented user stories:
 
 > Please record screen to a GIF file and attach link here
 
+https://drive.google.com/file/d/127fke0mkK0Ch4oO0FlxjEaAvk_lWHLxg/view?usp=share_link
+
 ## License
 
     Copyright [2016] [your-name]
