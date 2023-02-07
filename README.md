@@ -1,4 +1,4 @@
-# Project - *Movies*
+# Project - *Movies* - Install with Yarn
 
 **Movies** is a movies app using the [The Movie Database API](https://developers.themoviedb.org/3).
 
