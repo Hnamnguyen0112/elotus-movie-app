@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@assets": ["assets"],
+      "@assets/*": ["assets/*"],
+      "@containers": ["containers"],
+      "@containers/*": ["containers/*"],
+      "@components": ["components"],
+      "@components/*": ["components/*"],
+      "@utils": ["utils"],
+      "@utils/*": ["utils/*"],
+      "@i18n": ["i18n"],
+      "@i18n/*": ["i18n/*"],
+      "@axios": ["axios"],
+      "@axios/*": ["axios/*"],
+      "@hooks": ["hooks"],
+      "@hooks/*": ["hooks/*"]
+    }
+  }
+}

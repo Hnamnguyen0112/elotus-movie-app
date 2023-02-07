@@ -1,0 +1,32 @@
+.detail-card .ant-card-body {
+  display: flex;
+  .detail-image {
+    width: 300px;
+    height: auto;
+  }
+  .detail-info {
+    padding: 0 15px;
+  }
+  h2, h5 {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .detail-card {
+    height: 750px;
+    overflow: auto;
+    .ant-card-body {
+      display: block;
+
+      .detail-image {
+        width: 100%;
+        height: auto;
+      }
+
+      .detail-info {
+        padding: 0;
+      }
+    }
+  }
+}
